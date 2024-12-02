@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+
+=======
+
+as
 a
-asd
-a
-d
+sd
+
+>>>>>>> be4f00b (upgrading app)
 
 papapa
